@@ -47,21 +47,21 @@ Presentations
   
 Service & Leadership
 ======
-* JP-SSF Mentorship Program, 2021–Present
-  * Mentor
 * JP-ASK
   * Mentor, 2021-Present 
   * Executive Board Member. 2022-Present
+* Graduate Climate Conference, 2023-Present
+  * Organizer
+  * Chair of Audio/Visual Committee (2023)
+* JP-SSF Mentorship Program, 2021–Present
+  * Mentor
+* MIT Summer Research Program, 2023–Present
+  * Application Review Committee Member
 * MIT Water Summit, 2021
   * Organizer
   * Social Media Director 
 * Undergrad Recruitment Working Group, 2022–2022
   * Committee Member
-* Graduate Climate Conference, 2023-Present
-  * Organizer
-  * Chair of Audio/Visual Committee (2023)
-* MIT Summer Research Program, 2023–Present
-  * Application Review Committee Member
  
 Outreach
 ======
@@ -69,8 +69,6 @@ Outreach
   * Guest instructor
 * Letters to a Pre-scientist, 2022-Present
   * STEM Professional Correspondent
-* JP-ASK, 2021-Present
-  * Mentor
 
 Ocean Cruise Experience
 ======
