@@ -28,35 +28,35 @@ I have been a Guest instructor at the [Girls' Nature + Science Camp](https://www
 
 <div class="gallery gallery-cols-3">
     <figure>
-        <img src="https://i.imgur.com/zdddJnQ.png" alt="PIS Logo" width="30%">
+        <img src="https://i.imgur.com/zdddJnQ.png" alt="PIS Logo" width="40%">
         <figcaption></figcaption>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/t8rRgFx.png" alt="penikese island" width="30%">
+        <img src="https://i.imgur.com/EY0rb5l.png" alt="penikese birds" width="40%">
         <figcaption></figcaption></a>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/EY0rb5l.png" alt="penikese birds" width="30%">
+        <img src="https://i.imgur.com/s8r3O3G.png" alt="penikese lesson 1" width="40%">
         <figcaption></figcaption></a>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/s8r3O3G.png" alt="penikese lesson 1" width="30%">
+        <img src="https://i.imgur.com/KBuWUZ6.png" alt="penikese lesson 2" width="40%">
         <figcaption></figcaption></a>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/KBuWUZ6.png" alt="penikese lesson 2" width="30%">
+        <img src="https://i.imgur.com/gkD7R95.png" alt="penikese lesson 3" width="40%">
         <figcaption></figcaption></a>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/gkD7R95.png" alt="penikese lesson 3" width="30%">
+        <img src="https://i.imgur.com/l3f3DMg.png" alt="house" width="40%">
         <figcaption></figcaption></a>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/l3f3DMg.png" alt="house" width="30%">
+        <img src="https://i.imgur.com/HB3TTyx.png" alt="bamboo sticks" width="40%">
         <figcaption></figcaption></a>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/HB3TTyx.png" alt="bamboo sticks" width="30%">
+        <img src="https://i.imgur.com/t8rRgFx.png" alt="penikese island" width="40%">
         <figcaption></figcaption></a>
     </figure>
 </div>
