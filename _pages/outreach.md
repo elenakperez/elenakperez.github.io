@@ -32,15 +32,15 @@ I have been a Guest instructor at the [Girls' Nature + Science Camp](https://www
         <figcaption></figcaption>
     </figure>
     <figure>
+        <img src="https://i.imgur.com/s8r3O3G.png" alt="penikese lesson 1" width="40%">
+        <figcaption></figcaption></a>
+    </figure>
+    <figure>
         <img src="https://i.imgur.com/yEmk5TB.png" alt="penikese island" width="40%">
         <figcaption></figcaption></a>
     </figure>
     <figure>
         <img src="https://i.imgur.com/l3f3DMg.png" alt="penikese birds" width="40%">
-        <figcaption></figcaption></a>
-    </figure>
-    <figure>
-        <img src="https://i.imgur.com/s8r3O3G.png" alt="penikese lesson 1" width="40%">
         <figcaption></figcaption></a>
     </figure>
     <figure>
