@@ -13,22 +13,13 @@ I have been involved in [JP-ASK](https://mit.whoi.edu/admissions/apply/jp-applic
 
 <div class="gallery gallery-cols-3">
     <figure>
-        <img src="https://i.imgur.com/qLLZzY6.png" alt="JP-ASK Logo" style="width:40%;height:auto;">
+        <img src="https://i.imgur.com/qLLZzY6.png" alt="JP-ASK Logo" style="width:40%;height:auto;float:left">
         <figcaption></figcaption>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/uCKjhnY.jpeg" alt="JP ASK BBQ (2022)" style="width:40%;height:auto;">
+        <img src="https://i.imgur.com/uCKjhnY.jpeg" alt="JP ASK BBQ (2022)" style="width:40%;height:auto;float:right">
         <figcaption></figcaption>
     </figure>
-</div>
-
-<div class="row">
-  <div class="column">
-    <img src="https://i.imgur.com/qLLZzY6.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://i.imgur.com/uCKjhnY.jpeg" alt="Forest" style="width:100%">
-  </div>
 </div>
 
 Penikese Island School
