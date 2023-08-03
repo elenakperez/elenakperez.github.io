@@ -32,7 +32,6 @@ Teaching Experience
 * JP Summer Math Review, Summer 2023
   * Co-taught Ordinary Differential Equations II
 * Introduction to Logic TA, Spring 2019
-  * Graded assignments and exams & held office hours for PHIL 2140 at RPI 
 
 Publications
 ======
