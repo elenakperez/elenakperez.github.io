@@ -7,9 +7,9 @@ author_profile: true
 ---
 
 
-Joint Program - Applicant and Support Knowledgbase
+Joint Program - Applicant and Support Knowledgbase (JP-ASK)
 ======
-I have been involved in the Joint Program - Applicant and Support Knowledgbase ([JP-ASK](https://mit.whoi.edu/admissions/apply/jp-applicant-service-knowledgebase-jp-ask/)) as a mentor since 2021 and have served on the excecutive board since 2022. JP-ASK is a volunteer mentorship program for prospective graduate students appling to ocean sciences. The main goal of JP-ASK is to diversify the geosciences by providing mentorship to primarily underrepresented groups in this field. 
+I have been involved in [JP-ASK](https://mit.whoi.edu/admissions/apply/jp-applicant-service-knowledgebase-jp-ask/) as a mentor since 2021 and have served on the excecutive board since 2022. JP-ASK is a volunteer mentorship program for prospective graduate students appling to ocean sciences. The main goal of JP-ASK is to diversify the geosciences by providing mentorship to primarily underrepresented groups in this field. 
 
 <div class="gallery gallery-cols-3">
     <figure>
