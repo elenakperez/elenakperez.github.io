@@ -22,6 +22,15 @@ I have been involved in [JP-ASK](https://mit.whoi.edu/admissions/apply/jp-applic
     </figure>
 </div>
 
+<div class="row">
+  <div class="column">
+    <img src="https://i.imgur.com/qLLZzY6.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/uCKjhnY.jpeg" alt="Forest" style="width:100%">
+  </div>
+</div>
+
 Penikese Island School
 ======
 I have been a Guest instructor at the [Girls' Nature + Science Camp](https://www.penikese.org/camp) since summer 2022. [Katy Abbott](https://katyabbott.github.io/), Margaret Gregory, and myself co-teach a lesson about Buoyancy, Density, and Mixing. The goal of the camp is to "empower middle-school girls and gender-expansive youth in the sciences by providing them with role models of women in STEM, and to foster confidence in science, in nature, and in themselves". 
