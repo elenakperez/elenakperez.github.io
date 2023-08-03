@@ -32,7 +32,7 @@ I have been a Guest instructor at the [Girls' Nature + Science Camp](https://www
         <figcaption></figcaption>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/yEmk5TB.png" alt="penikese island" width="30%">
+        <img src="https://i.imgur.com/Y4ScKBt.png" alt="penikese island" width="30%">
         <figcaption></figcaption></a>
     </figure>
     <figure>
