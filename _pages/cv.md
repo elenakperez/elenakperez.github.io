@@ -17,6 +17,8 @@ Education
   * NSF GRFP Recipient, 2021-2026 
 * B.S. in Applied Mathematics, Rensselaer Polytechnic Institute, 2020
   * Dean’s Honor List, Rensselaer Leadership Award, Manuel J Cutillas '55 Scholar Award, Rensselaer Recognition Award
+ 
+<hr>
 
 Research Experience
 ======
@@ -26,24 +28,32 @@ Research Experience
   * Semester At WHOI, Fall 2019, Advisor: Hauke Kite-Powell
 * Rensselaer Polytechnic Institute
   * Undergraduate Research Project, Spring 2020, Advisor: Sarah Cadieux
-  
+
+<hr>
+
 Teaching Experience
 ======
 * JP Summer Math Review, Summer 2023
   * Co-taught Ordinary Differential Equations II
 * RPI Introduction to Logic TA, Spring 2019
 
+<hr>
+
 Publications
 ======
 * [**Perez, E.**, Ryan, S., Andres, M. et al. Understanding physical drivers of the 2015/16 marine heatwaves in the Northwest Atlantic. Sci Rep 11, 17623 (2021). https://doi.org/10.1038/s41598-021-97012-0](https://doi.org/10.1038/s41598-021-97012-0).
-  
+
+<hr>
+
 Presentations
 ======
 * **E. Perez**, M. Andres, G. Gawarkiewicz, A. Gangopadhyay & A. Silver. “Comparing SSH- to SST-derived rings (1993–2017).” Graduate Climate Conference, 3 November 2022, University of Washington. Poster.
 * **E. Perez**, M. Andres, G. Gawarkiewicz, A. Gangopadhyay & A. Silver. “Comparing Chelton Eddies to Clark Charts (1993–2017).” Middle Atlantic Bight Physical Oceanography and Meteorology Meeting, 13 October 2022, University of Delaware. Talk.
 * **E. Perez**, S. Ryan, M. Andres, G. Gawarkiewicz, C. Ummenhofer, P. Wagner, M. Scheinert, A. Biastoch, C.W. Böning, Understanding Physical Drivers of the 2016 Marine Heatwave in the Northwest Atlantic, Abstract for American Geophysical Union Fall Meeting, Virtual Session, December 2020. Poster.
 * **E. Perez**, S. Ryan, M. Andres, G. Gawarkiewicz, C. Ummenhofer, Marine heatwaves in the Northwest Atlantic, WHOI Summer Student Fellows Final Presentations, Virtual Session, August 2020. Talk. 
-  
+
+<hr>
+
 Service & Leadership
 ======
 * JP-ASK, 2021-Present
@@ -61,13 +71,17 @@ Service & Leadership
   * Social Media Director 
 * Undergrad Recruitment Working Group, 2022–2023
   * Committee Member
- 
+
+<hr>
+
 Outreach
 ======
 * Penikese Island School, 2022-Present
   * Guest instructor
 * Letters to a Pre-scientist, 2022-Present
   * STEM Professional Correspondent
+
+<hr>
 
 Ocean Cruise Experience
 ======
@@ -80,3 +94,4 @@ Ocean Cruise Experience
 * R/V Tioga, Fall 2019
   * Introductory 1-day cruise for undergradautes to learn data collection and sampling methods with array of oceanographic instruments and technology
 
+<hr>
