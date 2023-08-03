@@ -11,11 +11,15 @@ Joint Program - Applicant and Support Knowledgbase (JP-ASK)
 ======
 I have been involved in [JP-ASK](https://mit.whoi.edu/admissions/apply/jp-applicant-service-knowledgebase-jp-ask/) as a mentor since 2021 and have served on the excecutive board since 2022. JP-ASK is a mentorship program that matches current JP graduate students with prospective students. The main goal of JP-ASK is to diversify the geosciences by providing mentorship to primarily underrepresented groups in this field. 
 
-htmlCopy code<style> 
-  .image-container { 
-    float: left; 
-  } 
-</style> 
+<html>
+    <head>
+        <style> 
+          .image-container { 
+            float: left; 
+          } 
+        </style> 
+    </head>
+</html>
 
 <div class="gallery gallery-cols-3">
     <figure>
