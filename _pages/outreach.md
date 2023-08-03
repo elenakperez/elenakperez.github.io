@@ -26,9 +26,27 @@ Penikese Island School
 ======
 I have been a Guest instructor at the [Girls' Nature + Science Camp](https://www.penikese.org/camp) since summer 2022. Katy Abbott, Margaret Gregory, and myself co-teach a lesson about Buoyancy, Density, and Mixing. The goal of the camp is to "empower middle-school girls and gender-expansive youth in the sciences by providing them with role models of women in STEM, and to foster confidence in science, in nature, and in themselves". <br/><img src='/images/penikese2023_logo.png' width="500">
 
+<div class="gallery gallery-cols-3">
+    <figure>
+        <img src="" alt="PIS Logo" width="40%">
+        <figcaption></figcaption>
+    </figure>
+    <figure>
+        <img src="" alt="" width="40%">
+        <figcaption></figcaption></a>
+    </figure>
+</div>
+
 Letters to a Pre-scientist
 ======
-[Letters to a Pre-Scientist](https://prescientist.org/about-us/) facilitates one-on-one connections to humanize STEM professionals, demystify STEM career pathways, and inspire all students to explore a future in STEM via a Pen Pal exchange of letters. I have been a STEM professional correspondent since fall 2022. <br/><img src='/images/lps_logo.png' width="500">
+[Letters to a Pre-Scientist](https://prescientist.org/about-us/) facilitates one-on-one connections to humanize STEM professionals, demystify STEM career pathways, and inspire all students to explore a future in STEM via a Pen Pal exchange of letters. I have been a STEM professional correspondent since fall 2022.
+
+<div class="gallery gallery-cols-3">
+    <figure>
+        <img src="https://i.imgur.com/B888Yzu.png" alt="LPS Logo" width="40%">
+        <figcaption></figcaption>
+    </figure>
+</div>
 
 Graduate Climate Conference
 ======
