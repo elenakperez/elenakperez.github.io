@@ -11,15 +11,16 @@ Joint Program - Applicant and Support Knowledgbase
 ======
 I have been involved in the Joint Program - Applicant and Support Knowledgbase ([JP-ASK](https://mit.whoi.edu/admissions/apply/jp-applicant-service-knowledgebase-jp-ask/)) as a mentor since 2021 and have served on the excecutive board since 2022. JP-ASK is a volunteer mentorship program for prospective graduate students appling to ocean sciences. The main goal of JP-ASK is to diversify the geosciences by providing mentorship to primarily underrepresented groups in this field.  <br/><img src='/images/JP_ASK_BBQ_photo2022.jpeg' width="500">
 
-gallery0:
-  - url: https://imgur.com/a/UXPugt4
-    image_path: https://i.imgur.com/qLLZzY6.png
-    alt: "JP-ASK Logo"
-  - url: https://imgur.com/uCKjhnY
-    image_path: https://i.imgur.com/uCKjhnY.jpeg
-    alt: "JP ASK BBQ (2022)"
-
-{% include gallery id="gallery0" caption="" %}
+<div class="gallery gallery-cols-3">
+    <figure>
+        <img src="https://i.imgur.com/qLLZzY6.png" alt="JP-ASK Logo">
+        <figcaption>Image 1</figcaption>
+    </figure>
+    <figure>
+        <img src="https://i.imgur.com/uCKjhnY.jpeg" alt="JP ASK BBQ (2022)">
+        <figcaption>Image 2</figcaption></a>
+    </figure>
+</div>
 
 Penikese Island School
 ======
