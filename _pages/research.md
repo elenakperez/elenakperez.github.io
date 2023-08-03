@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+<hr>
+
 ## Marine Heatwaves in the Northwest Atlantic
 
 The Northwest Atlantic, which has exhibited evidence of accelerated warming compared to the global ocean, also experienced several notable marine heatwaves (MHWs) over the last decade. We analyze spatiotemporal patterns of surface and subsurface temperature structure across the Northwest Atlantic continental shelf and slope to assess the influences of atmospheric and oceanic processes on ocean temperatures. Here we focus on MHWs from 2015/16 and examine their physical drivers using observational and reanalysis products. We find that a combination of jet stream latitudinal position and ocean advection, mainly due to warm core rings shed by the Gulf Stream, plays a role in MHW development. While both atmospheric and oceanic drivers can lead to MHWs they have different temperature signatures with each affecting the vertical structure differently and horizontal spatial patterns of a MHW. Northwest Atlantic MHWs have significant socio-economic impacts and affect commercially important species such as squid and lobster.
