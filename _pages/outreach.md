@@ -40,7 +40,7 @@ I have been a Guest instructor at the [Girls' Nature + Science Camp](https://www
         <figcaption></figcaption></a>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/l3f3DMg.png" alt="penikese birds" width="30%">
+        <img src="https://i.imgur.com/EY0rb5l.png" alt="penikese birds" width="30%">
         <figcaption></figcaption></a>
     </figure>
     <figure>
