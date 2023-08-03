@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+View my full CV [here](https://docs.google.com/document/d/1SCyCq02UhmFdHJE0R0XNfRBcwvJ8-XwOPwA6L10VnX0/edit?usp=sharing). Below you'll find the shortened summary verision of my CV.
+
 Education
 ======
 * Ph.D in Physical Oceanography, MIT-WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering, 2026 (expected)
@@ -20,21 +22,19 @@ Research Experience
 ======
 * Woods Hole Oceanographic Institution (2021–Present)
   * MIT-WHOI Joint Program
-  * Advisor: Magdalena Andres
-* Woods Hole Oceanographic Institution (Summer 2020)
-  * Summer Student Fellowship
-  * Advisors: Magdalena Andres & Glen Gawarkiewicz
+    * Advisor: Magdalena Andres
+  * Summer Student Fellow
+    * Advisors: Magdalena Andres & Glen Gawarkiewicz
+  * Semester At WHOI
+    * Advisor: Hauke Kite-Powell
 * Rensselaer Polytechnic Institute (Spring 2020)
   * Undergraduate Research Project
-  * Advisor: Sarah Cadieux
-* Woods Hole Oceanographic Institution (Fall 2019)
-  * Semester At WHOI 
-  * Advisor: Hauke Kite-Powell
+    * Advisor: Sarah Cadieux
   
 Teaching Experience
 ======
 * JP Summer Math Review 2023
-  * Co-taught Ordinary Differential Equations  
+  * Co-taught Ordinary Differential Equations II
 
 Publications
 ======
