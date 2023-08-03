@@ -67,11 +67,11 @@ Letters to a Pre-scientist
 
 <div class="gallery gallery-cols-3">
     <figure>
-        <img src="https://i.imgur.com/B888Yzu.png" alt="LPS Logo" width="40%">
+        <img src="https://i.imgur.com/B888Yzu.png" alt="LPS Logo" style="width:40%;height:auto;">
         <figcaption></figcaption>
     </figure>
     <figure>
-        <img src="https://prescientist.org/wp-content/uploads/2021/07/Image-from-iOS-317-1024x768.jpg" alt="" width="40%">
+        <img src="https://prescientist.org/wp-content/uploads/2021/07/Image-from-iOS-317-1024x768.jpg" alt="" style="width:40%;height:auto;">
         <figcaption></figcaption></a>
     </figure>
 </div>
