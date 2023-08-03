@@ -13,7 +13,7 @@ I have been involved in [JP-ASK](https://mit.whoi.edu/admissions/apply/jp-applic
 
 <div class="gallery gallery-cols-3">
     <figure>
-        <img src="https://i.imgur.com/qLLZzY6.png" alt="JP-ASK Logo" style="width:40%;height:auto;" display: inline-block;>
+        <img src="https://i.imgur.com/qLLZzY6.png" alt="JP-ASK Logo" style="width:40%;height:auto;">
         <figcaption></figcaption>
     </figure>
     <figure>
