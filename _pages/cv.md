@@ -36,7 +36,7 @@ Teaching Experience
 
 Publications
 ======
-* **Perez, E.**, Ryan, S., Andres, M. et al. Understanding physical drivers of the 2015/16 marine heatwaves in the Northwest Atlantic. Sci Rep 11, 17623 (2021). (https://doi.org/10.1038/s41598-021-97012-0).
+* [**Perez, E.**, Ryan, S., Andres, M. et al. Understanding physical drivers of the 2015/16 marine heatwaves in the Northwest Atlantic. Sci Rep 11, 17623 (2021). https://doi.org/10.1038/s41598-021-97012-0](https://doi.org/10.1038/s41598-021-97012-0).
   
 Presentations
 ======
