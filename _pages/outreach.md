@@ -24,7 +24,7 @@ I have been involved in [JP-ASK](https://mit.whoi.edu/admissions/apply/jp-applic
 
 <div class="gallery gallery-cols-3">
     <figure>
-        <img src="https://i.imgur.com/ubbm0PU.png" alt="JP-ASK collage" style="width:40%;height:auto;">
+        <img src="https://i.imgur.com/ubbm0PU.png" alt="JP-ASK collage" style="width:100%;height:auto;">
         <figcaption></figcaption>
     </figure>
 </div>
