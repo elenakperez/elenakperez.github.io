@@ -24,8 +24,8 @@ Research Experience
   * MIT-WHOI Joint Program, 2021-Present, Advisor: Magdalena Andres
   * Summer Student Fellow, Summer 2020, Advisors: Magdalena Andres & Glen Gawarkiewicz
   * Semester At WHOI, Fall 2019, Advisor: Hauke Kite-Powell
-* Rensselaer Polytechnic Institute, Spring 2020
-  * Undergraduate Research Project, Advisor: Sarah Cadieux
+* Rensselaer Polytechnic Institute
+  * Undergraduate Research Project, Spring 2020, Advisor: Sarah Cadieux
   
 Teaching Experience
 ======
