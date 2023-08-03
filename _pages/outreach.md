@@ -18,7 +18,7 @@ I have been involved in [JP-ASK](https://mit.whoi.edu/admissions/apply/jp-applic
     </figure>
     <figure>
         <img src="https://i.imgur.com/uCKjhnY.jpeg" alt="JP ASK BBQ (2022)" style="width:40%;height:auto;">
-        <figcaption></figcaption></a>
+        <figcaption></figcaption>
     </figure>
 </div>
 
@@ -33,31 +33,31 @@ I have been a Guest instructor at the [Girls' Nature + Science Camp](https://www
     </figure>
     <figure>
         <img src="https://i.imgur.com/s8r3O3G.png" alt="penikese lesson 1" width="40%">
-        <figcaption></figcaption></a>
+        <figcaption></figcaption>
     </figure>
     <figure>
         <img src="https://i.imgur.com/KBuWUZ6.png" alt="penikese lesson 2" width="40%">
-        <figcaption></figcaption></a>
+        <figcaption></figcaption>
     </figure>
     <figure>
         <img src="https://i.imgur.com/gkD7R95.png" alt="penikese lesson 3" width="40%">
-        <figcaption></figcaption></a>
+        <figcaption></figcaption>
     </figure>
     <figure>
         <img src="https://i.imgur.com/l3f3DMg.png" alt="house" width="40%">
-        <figcaption></figcaption></a>
+        <figcaption></figcaption>
     </figure>
     <figure>
         <img src="https://i.imgur.com/HB3TTyx.png" alt="bamboo sticks" width="40%">
-        <figcaption></figcaption></a>
+        <figcaption></figcaption>
     </figure>
     <figure>
         <img src="https://i.imgur.com/t8rRgFx.png" alt="penikese island" width="40%">
-        <figcaption></figcaption></a>
+        <figcaption></figcaption>
     </figure>
     <figure>
         <img src="https://i.imgur.com/EY0rb5l.png" alt="penikese birds" width="40%">
-        <figcaption></figcaption></a>
+        <figcaption></figcaption>
     </figure>
 </div>
 
@@ -72,7 +72,7 @@ Letters to a Pre-scientist
     </figure>
     <figure>
         <img src="https://prescientist.org/wp-content/uploads/2021/07/Image-from-iOS-317-1024x768.jpg" alt="" style="width:40%;height:auto;">
-        <figcaption></figcaption></a>
+        <figcaption></figcaption>
     </figure>
 </div>
 
