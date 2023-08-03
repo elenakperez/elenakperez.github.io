@@ -48,11 +48,7 @@ Letters to a Pre-scientist
 
 <div class="gallery gallery-cols-3">
     <figure>
-        <img src="https://i.imgur.com/B888Yzu.png" alt="LPS Logo" style="width:40%;height:auto;">
-        <figcaption></figcaption>
-    </figure>
-    <figure>
-        <img src="https://prescientist.org/wp-content/uploads/2021/07/Image-from-iOS-317-1024x768.jpg" alt="" style="width:40%;height:auto;">
+        <img src="https://i.imgur.com/5paU0Fb.png" alt="lps collage" style="width:100%;height:auto;">
         <figcaption></figcaption>
     </figure>
 </div>
@@ -64,11 +60,8 @@ The GCC is an annual climate conference for graduate students organized by gradu
 
 <div class="gallery gallery-cols-3">
     <figure>
-        <img src="https://i.imgur.com/1XnaX7W.png" alt="GCC Logo" style="width:40%;height:auto;">
-        <figcaption></figcaption>
-    </figure>
-    <figure>
-        <img src="https://i.imgur.com/pPoLiiK.png" alt="shawn poster" style="width:40%;height:auto;">
+        <img src="https://i.imgur.com/zfK9LqM.png" alt="GCC collage" style="width:100%;height:auto;">
         <figcaption></figcaption>
     </figure>
 </div>
+
