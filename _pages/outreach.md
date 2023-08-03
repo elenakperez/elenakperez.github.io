@@ -28,7 +28,7 @@ I have been a Guest instructor at the [Girls' Nature + Science Camp](https://www
 
 <div class="gallery gallery-cols-3">
     <figure>
-        <img src="https://static.wixstatic.com/media/1acb2c_9f41d1f24db2430094259a817db31fe2~mv2.png/v1/fill/w_461,h_107,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2023_PIS_logo_letterhead_2colors_withline.png" alt="PIS Logo" width="40%">
+        <img src="https://i.imgur.com/zdddJnQ.png" alt="PIS Logo" width="40%">
         <figcaption></figcaption>
     </figure>
     <figure>
