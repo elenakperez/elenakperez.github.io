@@ -44,10 +44,6 @@ I have been a Guest instructor at the [Girls' Nature + Science Camp](https://www
         <figcaption></figcaption></a>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/EY0rb5l.png" alt="penikese birds" width="40%">
-        <figcaption></figcaption></a>
-    </figure>
-    <figure>
         <img src="https://i.imgur.com/l3f3DMg.png" alt="house" width="40%">
         <figcaption></figcaption></a>
     </figure>
@@ -57,6 +53,10 @@ I have been a Guest instructor at the [Girls' Nature + Science Camp](https://www
     </figure>
     <figure>
         <img src="https://i.imgur.com/t8rRgFx.png" alt="penikese island" width="40%">
+        <figcaption></figcaption></a>
+    </figure>
+    <figure>
+        <img src="https://i.imgur.com/EY0rb5l.png" alt="penikese birds" width="40%">
         <figcaption></figcaption></a>
     </figure>
 </div>
