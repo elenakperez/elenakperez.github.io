@@ -9,31 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-View my full CV [here](https://docs.google.com/document/d/1SCyCq02UhmFdHJE0R0XNfRBcwvJ8-XwOPwA6L10VnX0/edit?usp=sharing). Below you'll find the shortened summary verision of my CV.
+View my full CV [here](https://docs.google.com/document/d/1SCyCq02UhmFdHJE0R0XNfRBcwvJ8-XwOPwA6L10VnX0/edit?usp=sharing). Below you'll find the summary verision of my CV.
 
 Education
 ======
 * Ph.D in Physical Oceanography, MIT-WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering, 2026 (expected)
-  * NSF GRFP Recipient, 2021-2026: Five-year fellowship awarded to outstanding students in NSF-supported STEM disciplines who are pursuing research-based graduate degrees 
+  * NSF GRFP Recipient, 2021-2026 
 * B.S. in Applied Mathematics, Rensselaer Polytechnic Institute, 2020
   * Dean’s Honor List, Rensselaer Leadership Award, Manuel J Cutillas '55 Scholar Award, Rensselaer Recognition Award
 
 Research Experience
 ======
-* Woods Hole Oceanographic Institution (2021–Present)
-  * MIT-WHOI Joint Program
+* Woods Hole Oceanographic Institution
+  * MIT-WHOI Joint Program, 2021-Present
     * Advisor: Magdalena Andres
-  * Summer Student Fellow
+  * Summer Student Fellow, Summer 2020
     * Advisors: Magdalena Andres & Glen Gawarkiewicz
-  * Semester At WHOI
+  * Semester At WHOI, Fall 2019
     * Advisor: Hauke Kite-Powell
-* Rensselaer Polytechnic Institute (Spring 2020)
+* Rensselaer Polytechnic Institute, Spring 2020
   * Undergraduate Research Project
     * Advisor: Sarah Cadieux
   
 Teaching Experience
 ======
-* JP Summer Math Review 2023
+* JP Summer Math Review, 2023
   * Co-taught Ordinary Differential Equations II
 
 Publications
@@ -51,24 +51,28 @@ Presentations
   
 Service & Leadership
 ======
-* JP-SSF Mentorship Program	(2021–Present)
+* JP-SSF Mentorship Program, 2021–Present
   * Mentor
-* JP-ASK (2021-Present)
-  * Mentor
-  * Executive Board Member (2022–Present)
-* MIT Water Summit (2021)
+* JP-ASK, 2022-Present
+  * Executive Board Member
+* MIT Water Summit, 2021
   * Organizer
   * Social Media Director 
-* Penikese Island School (2022-Present)
-  * Guest instructor
-* Letters to a Pre-scientist (2022-Present)
-  * STEM Professional Correspondent
-* Undergrad Recruitment Working Group (2022–2023)
+* Undergrad Recruitment Working Group, 2022–2022
   * Committee Member
-* Graduate Climate Conference (2023-Present)
+* Graduate Climate Conference, 2023-Present
   * Chair of Audio/Visual Committee (2023)
-* MIT Summer Research Program (2023–Present)
+* MIT Summer Research Program, 2023–Present
   * Application Review Committee Member
+ 
+Outreach
+======
+* Penikese Island School, 2022-Present
+  * Guest instructor
+* Letters to a Pre-scientist, 2022-Present
+  * STEM Professional Correspondent
+* JP-ASK, 2021-Present
+  * Mentor
 
 Ocean Cruise Experience
 ======
