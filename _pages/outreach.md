@@ -42,41 +42,6 @@ I have been a Guest instructor at the [Girls' Nature + Science Camp](https://www
     </figure>
 </div>
 
-<div class="gallery gallery-cols-3">
-    <figure>
-        <img src="https://i.imgur.com/zdddJnQ.png" alt="PIS Logo" width="40%">
-        <figcaption></figcaption>
-    </figure>
-    <figure>
-        <img src="https://i.imgur.com/s8r3O3G.png" alt="penikese lesson 1" width="40%">
-        <figcaption></figcaption>
-    </figure>
-    <figure>
-        <img src="https://i.imgur.com/KBuWUZ6.png" alt="penikese lesson 2" width="40%">
-        <figcaption></figcaption>
-    </figure>
-    <figure>
-        <img src="https://i.imgur.com/gkD7R95.png" alt="penikese lesson 3" width="40%">
-        <figcaption></figcaption>
-    </figure>
-    <figure>
-        <img src="https://i.imgur.com/l3f3DMg.png" alt="house" width="40%">
-        <figcaption></figcaption>
-    </figure>
-    <figure>
-        <img src="https://i.imgur.com/HB3TTyx.png" alt="bamboo sticks" width="40%">
-        <figcaption></figcaption>
-    </figure>
-    <figure>
-        <img src="https://i.imgur.com/t8rRgFx.png" alt="penikese island" width="40%">
-        <figcaption></figcaption>
-    </figure>
-    <figure>
-        <img src="https://i.imgur.com/EY0rb5l.png" alt="penikese birds" width="40%">
-        <figcaption></figcaption>
-    </figure>
-</div>
-
 Letters to a Pre-scientist
 ======
 [Letters to a Pre-Scientist](https://prescientist.org/about-us/) facilitates one-on-one connections to humanize STEM professionals, demystify STEM career pathways, and inspire all students to explore a future in STEM via a Pen Pal exchange of letters. I have been a STEM professional correspondent since fall 2022.
