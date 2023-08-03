@@ -59,7 +59,7 @@ Service & Leadership
 * MIT Water Summit, 2021
   * Organizer
   * Social Media Director 
-* Undergrad Recruitment Working Group, 2022–2022
+* Undergrad Recruitment Working Group, 2022–2023
   * Committee Member
  
 Outreach
