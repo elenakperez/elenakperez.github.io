@@ -87,7 +87,7 @@ The GCC is an annual climate conference for graduate students organized by gradu
         <figcaption></figcaption>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/pPoLiiK.png" alt="shawn poster" width="40%">
+        <img src="https://i.imgur.com/pPoLiiK.png" alt="shawn poster" style="width:500px;height:auto;">
         <figcaption></figcaption>
     </figure>
 </div>
