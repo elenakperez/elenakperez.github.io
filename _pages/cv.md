@@ -31,7 +31,7 @@ Teaching Experience
 ======
 * JP Summer Math Review, Summer 2023
   * Co-taught Ordinary Differential Equations II
-* Introduction to Logic TA, Spring 2019
+* RPI Introduction to Logic TA, Spring 2019
 
 Publications
 ======
