@@ -40,7 +40,7 @@ Publications
   
 Presentations
 ======
-* **E. Perez**, M. Andres, G. Gawarkiewicz, A. Gangopadhyay & A. Silver. “Comparing Chelton Eddies to Clark Charts (1993–2017).” Graduate Climate Conference, 3 November 2022, University of Washington. Poster.
+* **E. Perez**, M. Andres, G. Gawarkiewicz, A. Gangopadhyay & A. Silver. “Comparing SSH- to SST-derived rings (1993–2017).” Graduate Climate Conference, 3 November 2022, University of Washington. Poster.
 * **E. Perez**, M. Andres, G. Gawarkiewicz, A. Gangopadhyay & A. Silver. “Comparing Chelton Eddies to Clark Charts (1993–2017).” Middle Atlantic Bight Physical Oceanography and Meteorology Meeting, 13 October 2022, University of Delaware. Talk.
 * **E. Perez**, S. Ryan, M. Andres, G. Gawarkiewicz, C. Ummenhofer, P. Wagner, M. Scheinert, A. Biastoch, C.W. Böning, Understanding Physical Drivers of the 2016 Marine Heatwave in the Northwest Atlantic, Abstract for American Geophysical Union Fall Meeting, Virtual Session, December 2020. Poster.
 * **E. Perez**, S. Ryan, M. Andres, G. Gawarkiewicz, C. Ummenhofer, Marine heatwaves in the Northwest Atlantic, WHOI Summer Student Fellows Final Presentations, Virtual Session, August 2020. Talk. 
