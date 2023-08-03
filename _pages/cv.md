@@ -21,20 +21,18 @@ Education
 Research Experience
 ======
 * Woods Hole Oceanographic Institution
-  * MIT-WHOI Joint Program, 2021-Present
-    * Advisor: Magdalena Andres
-  * Summer Student Fellow, Summer 2020
-    * Advisors: Magdalena Andres & Glen Gawarkiewicz
-  * Semester At WHOI, Fall 2019
-    * Advisor: Hauke Kite-Powell
+  * MIT-WHOI Joint Program, 2021-Present, Advisor: Magdalena Andres
+  * Summer Student Fellow, Summer 2020, Advisors: Magdalena Andres & Glen Gawarkiewicz
+  * Semester At WHOI, Fall 2019, Advisor: Hauke Kite-Powell
 * Rensselaer Polytechnic Institute, Spring 2020
-  * Undergraduate Research Project
-    * Advisor: Sarah Cadieux
+  * Undergraduate Research Project, Advisor: Sarah Cadieux
   
 Teaching Experience
 ======
 * JP Summer Math Review, 2023
   * Co-taught Ordinary Differential Equations II
+* Introduction to Logic TA, Spring 2019
+  * Graded assignments and exams & held office hours for PHIL 2140 at RPI 
 
 Publications
 ======
@@ -53,8 +51,9 @@ Service & Leadership
 ======
 * JP-SSF Mentorship Program, 2021–Present
   * Mentor
-* JP-ASK, 2022-Present
-  * Executive Board Member
+* JP-ASK
+  * Mentor, 2021-Present 
+  * Executive Board Member. 2022-Present
 * MIT Water Summit, 2021
   * Organizer
   * Social Media Director 
