@@ -18,7 +18,7 @@ In my free time, I enjoy biking around Cape Cod and Boston, walking in nature, s
         <figcaption></figcaption>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/amUop5m.jpg" alt="bike and dock" style="width:100%;height:auto;">
+        <img src="https://i.imgur.com/j7AwNV2.jpg" alt="bike and dock" style="width:100%;height:auto;">
         <figcaption></figcaption>
     </figure>
 </div>
