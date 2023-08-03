@@ -46,6 +46,10 @@ Letters to a Pre-scientist
         <img src="https://i.imgur.com/B888Yzu.png" alt="LPS Logo" width="40%">
         <figcaption></figcaption>
     </figure>
+    <figure>
+        <img src="https://prescientist.org/wp-content/uploads/2021/07/Image-from-iOS-317-1024x768.jpg" alt="" width="40%">
+        <figcaption></figcaption></a>
+    </figure>
 </div>
 
 Graduate Climate Conference
