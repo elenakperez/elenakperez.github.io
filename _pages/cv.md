@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Physical Oceanography, MIT-WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering, 2026 (expected)
+  * NSF GRFP Recipient, 2021-2026: Five-year fellowship awarded to outstanding students in NSF-supported STEM disciplines who are pursuing research-based graduate degrees 
 * B.S. in Applied Mathematics, Rensselaer Polytechnic Institute, 2020
   * Dean’s Honor List, Rensselaer Leadership Award, Manuel J Cutillas '55 Scholar Award, Rensselaer Recognition Award
 
