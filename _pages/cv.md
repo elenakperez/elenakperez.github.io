@@ -11,6 +11,8 @@ redirect_from:
 
 View my full CV [here](https://docs.google.com/document/d/1SCyCq02UhmFdHJE0R0XNfRBcwvJ8-XwOPwA6L10VnX0/edit?usp=sharing). Below you'll find the summary verision of my CV.
 
+<hr>
+
 Education
 ======
 * Ph.D in Physical Oceanography, MIT-WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering, 2026 (expected)
