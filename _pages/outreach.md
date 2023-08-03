@@ -13,12 +13,12 @@ I have been involved in the Joint Program - Applicant and Support Knowledgbase (
 
 <div class="gallery gallery-cols-3">
     <figure>
-        <img src="https://i.imgur.com/qLLZzY6.png" alt="JP-ASK Logo">
-        <figcaption>Image 1</figcaption>
+        <img src="https://i.imgur.com/qLLZzY6.png" alt="JP-ASK Logo" width="15%">
+        <figcaption>JP-ASK Logo</figcaption>
     </figure>
     <figure>
-        <img src="https://i.imgur.com/uCKjhnY.jpeg" alt="JP ASK BBQ (2022)">
-        <figcaption>Image 2</figcaption></a>
+        <img src="https://i.imgur.com/uCKjhnY.jpeg" alt="JP ASK BBQ (2022)" width="15%">
+        <figcaption>JP ASK BBQ (2022)</figcaption></a>
     </figure>
 </div>
 
