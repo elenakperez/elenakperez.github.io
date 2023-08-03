@@ -58,6 +58,7 @@ Service & Leadership
 * Undergrad Recruitment Working Group, 2022–2022
   * Committee Member
 * Graduate Climate Conference, 2023-Present
+  * Organizer
   * Chair of Audio/Visual Committee (2023)
 * MIT Summer Research Program, 2023–Present
   * Application Review Committee Member
@@ -73,12 +74,12 @@ Outreach
 
 Ocean Cruise Experience
 ======
-* R/V Neil Armstrong (Summer 2022)
+* R/V Neil Armstrong, Summer 2022
   *  CTD watchstander on AR68, a 6-day cruise out to the New England Seamount chain to study acoustics of the region.
-* R/V Neil Armstrong (Fall  2021)
+* R/V Neil Armstrong, Fall  2021
   * CTD watchstander on the MIT-WHOI Joint Program 3-day cruise for new graduate students.
-* R/V Thomas G. Thompson	(March-April 2021)
+* R/V Thomas G. Thompson, March-April 2021
   * CTD watchstander on the A20 line of a long-line, 4-week US GO-SHIP cruise. 
-* R/V Tioga (Fall 2019)
+* R/V Tioga, Fall 2019
   * Introductory 1-day cruise for undergradautes to learn data collection and sampling methods with array of oceanographic instruments and technology
 
