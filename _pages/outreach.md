@@ -63,7 +63,7 @@ Letters to a Pre-scientist
 Graduate Climate Conference
 ======
 This year will be the first year I am an organizer for the Graduate Climate Conference ([GCC](https://graduateclimateconference.github.io/about/)). 
-The GCC is an annual climate conference for graduate students organized by graduate students. 
+The GCC is an annual, interdisciplinary climate conference **for** graduate students organized **by** graduate students. 
 
 <div class="gallery gallery-cols-3">
     <figure>
