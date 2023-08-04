@@ -15,7 +15,7 @@ View my full CV [here](https://docs.google.com/document/d/1SCyCq02UhmFdHJE0R0XNf
 
 Education
 ======
-* Ph.D in Physical Oceanography, MIT-WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering, 2026 (expected)
+* Ph.D in Physical Oceanography, MIT-WHOI Joint Program in Oceanography, 2026 (expected)
   * NSF GRFP Recipient, 2021-2026 
 * B.S. in Applied Mathematics, Rensselaer Polytechnic Institute, 2020
   * Dean’s Honor List, Rensselaer Leadership Award, Manuel J Cutillas '55 Scholar Award, Rensselaer Recognition Award
