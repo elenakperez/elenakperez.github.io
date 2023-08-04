@@ -60,7 +60,7 @@ Service & Leadership
 ======
 * JP-ASK, 2021-Present
   * Mentor
-  * Executive Board Member. 2022-Present
+  * Executive Board Member, 2022-Present
 * Graduate Climate Conference, 2023-Present
   * Organizer
   * Chair of Audio/Visual Committee (2023)
