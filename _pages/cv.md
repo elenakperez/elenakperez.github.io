@@ -79,7 +79,7 @@ Service & Leadership
 Outreach
 ======
 * Penikese Island School, 2022-Present
-  * Guest instructor
+  * Guest science instructor
 * Letters to a Pre-scientist, 2022-Present
   * STEM Professional Correspondent
 
