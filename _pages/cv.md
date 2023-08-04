@@ -92,7 +92,7 @@ Ocean Cruise Experience
 * R/V Neil Armstrong, Fall  2021
   * CTD watchstander on the MIT-WHOI Joint Program 3-day cruise for new graduate students.
 * R/V Thomas G. Thompson, March-April 2021
-  * CTD watchstander on the A20 line of a long-line, 4-week US GO-SHIP cruise. 
+  * CTD watchstander on the [A20 line of a long-line, 4-week US GO-SHIP cruise](https://usgoship-a20-a22-2021.blogspot.com/). 
 * R/V Tioga, Fall 2019
   * Introductory 1-day cruise for undergradautes to learn data collection and sampling methods with array of oceanographic instruments and technology
 
