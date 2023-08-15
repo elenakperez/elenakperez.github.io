@@ -82,6 +82,8 @@ Outreach
   * Guest science instructor
 * Letters to a Pre-scientist, 2022-Present
   * STEM Professional Correspondent
+* Woods Hole Science Stroll, 2023
+  * Volunteer Scientist
 
 <hr>
 
