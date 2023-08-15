@@ -81,11 +81,11 @@ Once a year, all major [marine science and educational institutions in Woods Hol
 
 <div class="gallery gallery-cols-3">
     <figure>
-        <img src="https://i.imgur.com/BPW5Ayj.png" alt="Woods Hole Science Stroll collage" style="width:49%;height:100px;">
+        <img src="https://i.imgur.com/BPW5Ayj.png" alt="Woods Hole Science Stroll collage" style="width:49%;height:50%;">
         <figcaption></figcaption>
     </figure>
         <figure>
-        <img src="https://i.imgur.com/E0YPgMh.png" alt="Woods Hole Science Stroll collage" style="width:49%;height:100px;">
+        <img src="https://i.imgur.com/E0YPgMh.png" alt="Woods Hole Science Stroll collage" style="width:49%;height:auto;">
         <figcaption></figcaption>
     </figure>
 </div>
