@@ -74,3 +74,20 @@ The GCC is an annual, interdisciplinary climate conference **for** graduate stud
 
 <hr>
 
+Woods Hole Science Stroll
+======
+Once a year, all major [marine science and educational institutions in Woods Hole](https://woodsholesciencestroll.org/) open their doors to the public to educate, engage, and showcase their science and work. I helped run the CTD booth this Summer 2023 where I talked to members of the general public about oceanography.
+
+
+<div class="gallery gallery-cols-3">
+    <figure>
+        <img src="https://i.imgur.com/BPW5Ayj.png" alt="Woods Hole Science Stroll collage" style="width:100%;height:auto;">
+        <figcaption></figcaption>
+    </figure>
+        <figure>
+        <img src="https://i.imgur.com/E0YPgMh.png" alt="Woods Hole Science Stroll collage" style="width:100%;height:auto;">
+        <figcaption></figcaption>
+    </figure>
+</div>
+
+<hr>
