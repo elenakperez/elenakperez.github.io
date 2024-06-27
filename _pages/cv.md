@@ -25,7 +25,7 @@ Education
 Research Experience
 ======
 * Woods Hole Oceanographic Institution
-  * MIT-WHOI Joint Program, 2021-Present, Advisor: Magdalena Andres & Glen Gawarkiewicz
+  * MIT-WHOI Joint Program, 2021-Present, Advisors: Magdalena Andres & Glen Gawarkiewicz
     * Secondary research project, Spring 2022, Advisor: Chris Piecuch 
   * Summer Student Fellow, Summer 2020, Advisors: Svenja Ryan, Magdalena Andres, Glen Gawarkiewicz, & Caroline Ummenhofer
 
