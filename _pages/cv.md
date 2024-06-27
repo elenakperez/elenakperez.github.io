@@ -15,11 +15,13 @@ View my full CV [here](https://docs.google.com/document/d/16PDMKdii5oCl_O6BG6NYo
 
 Education
 ======
-* Ph.D in Physical Oceanography, MIT-WHOI Joint Program in Oceanography, 2026 (expected)
-  * NSF GRFP Recipient, 2021-2026 
-* B.S. in Applied Mathematics, Rensselaer Polytechnic Institute, 2020
-  * Dean’s Honor List, Rensselaer Leadership Award, Manuel J Cutillas '55 Scholar Award, Rensselaer Recognition Award
- 
+* **Woods Hole Oceanographic Institution**
+  * Ph.D in Physical Oceanography, MIT-WHOI Joint Program in Oceanography, 2026 (expected)
+    * NSF GRFP Recipient, 2021-2026
+* **Rensselaer Polytechnic Institute**
+  * B.S. in Applied Mathematics, Rensselaer Polytechnic Institute, 2020
+    * Dean’s Honor List, Rensselaer Leadership Award, Manuel J Cutillas '55 Scholar Award, Rensselaer Recognition Award
+   
 <hr>
 
 Research Experience
@@ -37,9 +39,9 @@ Research Experience
 
 Teaching Experience
 ======
-* JP Summer Math Review, Summer 2023
+* **JP Summer Math Review**, Summer 2023
   * Co-taught Ordinary Differential Equations II
-* RPI Introduction to Logic TA, Spring 2019
+* **RPI Introduction to Logic TA**, Spring 2019
 
 <hr>
 
@@ -63,31 +65,31 @@ Presentations
 
 Service & Leadership
 ======
-* JP-ASK, 2021-Present
+* **JP-ASK**, 2021-Present
   * Mentor
-  * Executive Board Member, 2022-Present
-* Graduate Climate Conference, 2023-Present
+  * Executive Board Member, 2022-2024
+* **Graduate Climate Conference**, Spring–Fall 2023
   * Organizer
   * Chair of Audio/Visual Committee (2023)
-* JP-SSF Mentorship Program, 2021–Present
+* **JP-SSF Mentorship Program**, 2021–Present
   * Mentor
-* MIT Summer Research Program, 2023–Present
+* **MIT Summer Research Program**, 2023–Present
   * Application Review Committee Member
-* MIT Water Summit, 2021
+* **MIT Water Summit**, 2021
   * Organizer
   * Social Media Director 
-* Undergraduate Recruitment Working Group, 2022–2023
+* **Undergraduate Recruitment Working Group**, 2022–2023
   * Committee Member
 
 <hr>
 
 Outreach
 ======
-* Penikese Island School, 2022-Present
+* **Penikese Island School**, 2022-Present
   * Guest science instructor
-* Letters to a Pre-scientist, 2022-Present
+* **Letters to a Pre-Scientist**, 2022-Present
   * STEM Professional Correspondent
-* Woods Hole Science Stroll, 2023
+* **Woods Hole Science Stroll**, 2023
   * Volunteer Scientist
 
 <hr>
