@@ -94,15 +94,15 @@ Outreach
 
 Ocean Cruise Experience
 ======
-* R/V Roger Revelle, Summer 2024
+* R/V *Roger Revelle*, Summer 2024
   * Watch lead on RR2407, a 7-day cruise from Morehead City, NC to Woods Hole, MA. Primary objective to recover and deploy PIES near Cape Hatteras, Secondary objective to adapatively sample mid-Atlantic Bight on the transit back to port.
-* R/V Neil Armstrong, Summer 2022
+* R/V *Neil Armstrong*, Summer 2022
   *  CTD watchstander on AR68, a 6-day cruise out to the New England Seamount chain to study acoustics of the region.
-* R/V Neil Armstrong, Fall  2021
+* R/V *Neil Armstrong*, Fall  2021
   * CTD watchstander on the MIT-WHOI Joint Program 3-day cruise for new graduate students.
-* R/V Thomas G. Thompson, March-April 2021
+* R/V *Thomas G. Thompson*, March-April 2021
   * CTD watchstander on the [A20 line of a long-line, 4-week US GO-SHIP cruise](https://usgoship-a20-a22-2021.blogspot.com/). 
-* R/V Tioga, Fall 2019
+* R/V *Tioga*, Fall 2019
   * Introductory 1-day cruise for undergradautes to learn data collection and sampling methods with array of oceanographic instruments and technology
 
 <hr>
