@@ -10,7 +10,7 @@ author_profile: true
 
 Joint Program - Applicant and Support Knowledgbase (JP-ASK)
 ======
-I have been involved in [JP-ASK](https://mit.whoi.edu/admissions/apply/jp-applicant-service-knowledgebase-jp-ask/) as a mentor since 2021 and have served on the excecutive board since 2022. JP-ASK is a mentorship program that matches current JP graduate students with prospective students. The main goal of JP-ASK is to diversify the geosciences by providing mentorship to underrepresented groups. 
+I have been involved in [JP-ASK](https://mit.whoi.edu/admissions/apply/jp-applicant-service-knowledgebase-jp-ask/) as a mentor since 2021 and have served on the excecutive board 2022–2024. JP-ASK is a mentorship program that matches current JP graduate students with prospective students. The main goal of JP-ASK is to diversify the geosciences by providing mentorship to underrepresented groups. 
 
 <div class="gallery gallery-cols-3">
     <figure>
@@ -62,7 +62,7 @@ Letters to a Pre-scientist
 
 Graduate Climate Conference
 ======
-This year will be the first year I am an organizer for the Graduate Climate Conference ([GCC](https://graduateclimateconference.github.io/about/)). 
+I helped organize the 17th annual Graduate Climate Conference ([GCC](https://graduateclimateconference.github.io/about/)). I was Chair of the Audio/Visual Committee, and was responsible for running the talks and presentations throughout the conference.
 The GCC is an annual, interdisciplinary climate conference **for** graduate students organized **by** graduate students. 
 
 <div class="gallery gallery-cols-3">
