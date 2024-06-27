@@ -25,13 +25,13 @@ Education
 Research Experience
 ======
 * Woods Hole Oceanographic Institution
-  * MIT-WHOI Joint Program, 2021-Present, Advisors: Magdalena Andres & Glen Gawarkiewicz
-    * Secondary research project, Spring 2022, Advisor: Chris Piecuch 
-  * Summer Student Fellow, Summer 2020, Advisors: Svenja Ryan, Magdalena Andres, Glen Gawarkiewicz, & Caroline Ummenhofer
+  * MIT-WHOI Joint Program, 2021-Present, **Advisors**: Magdalena Andres & Glen Gawarkiewicz
+    * Secondary research project, Spring 2022, **Advisor**: Chris Piecuch 
+  * Summer Student Fellow, Summer 2020, **Advisors**: Svenja Ryan, Magdalena Andres, Glen Gawarkiewicz, & Caroline Ummenhofer
 
-  * Semester At WHOI, Fall 2019, Advisor: Hauke Kite-Powell
+  * Semester At WHOI, Fall 2019, **Advisor**: Hauke Kite-Powell
 * Rensselaer Polytechnic Institute
-  * Undergraduate Research Project, Spring 2020, Advisor: Sarah Cadieux
+  * Undergraduate Research Project, Spring 2020, **Advisor**: Sarah Cadieux
 
 <hr>
 
