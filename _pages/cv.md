@@ -47,7 +47,7 @@ Teaching Experience
 
 Publications
 ======
-* (under review) **Perez, E.**, Andres, M., Gawarkiewicz, G. Is the Regime Shift in Gulf Stream Warm Core Rings Detected by Satellite Altimetry? An Inter-comparison of Eddy Identification and Tracking Products. JGR Oceans. (2023)
+* (*under review*) **Perez, E.**, Andres, M., Gawarkiewicz, G. Is the Regime Shift in Gulf Stream Warm Core Rings Detected by Satellite Altimetry? An Inter-comparison of Eddy Identification and Tracking Products. JGR Oceans. (2023)
 * [**Perez, E.**, Ryan, S., Andres, M. et al. Understanding physical drivers of the 2015/16 marine heatwaves in the Northwest Atlantic. Sci Rep 11, 17623 (2021). https://doi.org/10.1038/s41598-021-97012-0](https://doi.org/10.1038/s41598-021-97012-0).
 
 <hr>
