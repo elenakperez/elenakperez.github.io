@@ -25,4 +25,9 @@ Last update: June 2024
         <img src="https://i.imgur.com/j7AwNV2.jpg" alt="bike and dock" style="width:100%;height:auto;">
         <figcaption></figcaption>
     </figure>
+    <figure>
+        <img src="https://i.imgur.com/D5KFE4f.jpeg" alt="rr2407" style="width:100%;height:auto;">
+        <figcaption></figcaption>
+    </figure>
+  
 </div>
