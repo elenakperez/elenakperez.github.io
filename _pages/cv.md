@@ -68,9 +68,9 @@ Service & Leadership
 * **JP-ASK**, 2021-Present
   * Mentor
   * Executive Board Member, 2022-2024
-* **Graduate Climate Conference**, Spring–Fall 2023
+* **Graduate Climate Conference**, 2023
   * Organizer
-  * Chair of Audio/Visual Committee (2023)
+  * Chair of Audio/Visual Committee
 * **JP-SSF Mentorship Program**, 2021–Present
   * Mentor
 * **MIT Summer Research Program**, 2023–Present
