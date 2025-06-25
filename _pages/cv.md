@@ -39,8 +39,9 @@ Research Experience
 
 Teaching Experience
 ======
-* **JP Summer Math Review**, Summer 2023
-  * Co-taught Ordinary Differential Equations II
+* **JP Summer Math Review**
+  * Co-taught Ordinary Differential Equations II, Summer 2023
+  * Taught Ordinary Differential Equations II, Summer 2024
 * **RPI Introduction to Logic TA**, Spring 2019
 
 <hr>
