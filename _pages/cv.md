@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View my full CV [here](https://docs.google.com/document/d/16PDMKdii5oCl_O6BG6NYo0l__S60cn9WsUktuK0YdSQ/edit?usp=sharing). Below you'll find the summary verision of my CV.
+View my full CV [here]([https://docs.google.com/document/d/16PDMKdii5oCl_O6BG6NYo0l__S60cn9WsUktuK0YdSQ/edit?usp=sharing](https://docs.google.com/document/d/1Vz_yRlezqrosN69aPp4ZNCFjtvYU9t9jY283EHkopUg/edit?usp=sharing)). Below you'll find the summary verision of my CV.
 
 <hr>
 
@@ -47,8 +47,9 @@ Teaching Experience
 
 Publications
 ======
-* **[Perez, E.**, Andres, M., Gawarkiewicz, G. Is the Regime Shift in Gulf Stream Warm Core Rings Detected by Satellite Altimetry? An Inter-comparison of Eddy Identification and Tracking Products. JGR Oceans. (2024)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JC020761)
-* **[Perez, E.**, Enders, L., Andres, M., Gawarkiewicz, Hummon, J., Genz, A., Carvalho, N., Limoges, A.,
+* **[Perez, E.**, & Andres, M. (2025). Gulf Stream Daily, Monthly, and Annual Paths (1993–2023, 75–55W) and an Updated Destabilization Point Time Series of the Gulf Stream (1993–2023, 75–55W) (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15492047](https://doi.org/10.5281/zenodo.15492047)
+* [**Perez, E.**, Andres, M., Gawarkiewicz, G. Is the Regime Shift in Gulf Stream Warm Core Rings Detected by Satellite Altimetry? An Inter-comparison of Eddy Identification and Tracking Products. JGR Oceans. (2024)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JC020761)
+* [**Perez, E.**, Enders, L., Andres, M., Gawarkiewicz, Hummon, J., Genz, A., Carvalho, N., Limoges, A.,
 Pereira, Z., & Smith, J. (2024). RR2407 Cruise Report. Zenodo.](https://doi.org/10.5281/zenodo.13198336).
 * [**Perez, E.**, Ryan, S., Andres, M. et al. Understanding physical drivers of the 2015/16 marine heatwaves in the Northwest Atlantic. Sci Rep 11, 17623 (2021). https://doi.org/10.1038/s41598-021-97012-0](https://doi.org/10.1038/s41598-021-97012-0).
 
