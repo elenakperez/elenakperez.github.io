@@ -68,6 +68,13 @@ Presentations
 
 <hr>
 
+Workshops & Certificates
+======
+* MIT Grant Writing Training certificate for attending and completing all course requirements for the 3-day bootcamp in January 2025.
+* MIT Graduate Certificate in Science, Technology, and Policy for attending and completing all course requirements for the 1-week bootcamp in January 2025.
+
+* <hr>
+
 Service & Leadership
 ======
 * **JP-ASK**, 2021-Present
