@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View my full CV [here](https://docs.google.com/document/d/1Vz_yRlezqrosN69aPp4ZNCFjtvYU9t9jY283EHkopUg/edit?usp=sharing)). Below you'll find the summary verision of my CV.
+View my full CV [here](https://docs.google.com/document/d/1Vz_yRlezqrosN69aPp4ZNCFjtvYU9t9jY283EHkopUg/edit?usp=sharing). Below you'll find the summary verision of my CV.
 
 <hr>
 
