@@ -48,7 +48,7 @@ Teaching Experience
 
 Publications
 ======
-* [Under review] Jensen, G. G., Gangopadhyay, A., Gawarkiewicz, G. G., Silver, A., **Perez, E.**, Clark, J. (2025). Observational evidence of a new type of Cyclonic Eddy of the Gulf Stream. Nature Scientific Reports.
+* [Jensen, G. G., Gangopadhyay, A., Gawarkiewicz, G. G., Silver, A., **Perez, E.**, Clark, J. Observational evidence of a new type of cyclonic eddy of the Gulf Stream. Sci Rep 15, 27660 (2025). https://doi.org/10.1038/s41598-025-10796-3](https://doi.org/10.1038/s41598-025-10796-3)
 * [**Perez, E.**, & Andres, M. (2025). Gulf Stream Daily, Monthly, and Annual Paths (1993–2023, 75–55W) and an Updated Destabilization Point Time Series of the Gulf Stream (1993–2023, 75–55W) (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15492047](https://doi.org/10.5281/zenodo.15492047)
 * [**Perez, E.**, Andres, M., Gawarkiewicz, G. Is the Regime Shift in Gulf Stream Warm Core Rings Detected by Satellite Altimetry? An Inter-comparison of Eddy Identification and Tracking Products. JGR Oceans. (2024)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JC020761)
 * [**Perez, E.**, Enders, L., Andres, M., Gawarkiewicz, Hummon, J., Genz, A., Carvalho, N., Limoges, A.,
