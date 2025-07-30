@@ -73,7 +73,7 @@ Workshops & Certificates
 * MIT Grant Writing Training certificate for attending and completing all course requirements for the 3-day bootcamp in January 2025.
 * MIT Graduate Certificate in Science, Technology, and Policy for attending and completing all course requirements for the 1-week bootcamp in January 2025.
 
-* <hr>
+<hr>
 
 Service & Leadership
 ======
@@ -99,7 +99,7 @@ Outreach
 ======
 * **Penikese Island School**, 2022-Present
   * Guest science instructor
-* **Letters to a Pre-Scientist**, 2022-Present
+* **Letters to a Pre-Scientist**, 2022-2024
   * STEM Professional Correspondent
 * **Woods Hole Science Stroll**, 2023
   * Volunteer Scientist
